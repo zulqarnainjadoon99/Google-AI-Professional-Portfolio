@@ -21,6 +21,26 @@ It contains 16 documented tasks, with two practical activities aligned to each o
 | 07 | AI for App Building | IT Support System Development; Python Debugging |
 | 08 | AI for App Deployment | Deployment Strategy; Application Monitoring |
 
+
+## Detailed Course Guides
+
+Each course folder contains a guide with two practical tasks, the scenario, work completed, quality review, and learning outcomes.
+
+| Course | Guide |
+|---|---|
+| AI Fundamentals | [Course 01](Course-01-AI-Fundamentals/README.md) |
+| AI for Brainstorming and Planning | [Course 02](Course-02-AI-Brainstorming-and-Planning/README.md) |
+| AI for Research and Insights | [Course 03](Course-03-AI-for-Research-and-Insights/README.md) |
+| AI for Writing and Communicating | [Course 04](Course-04-AI-for-Writing-and-Communicating/README.md) |
+| AI for Content Creation | [Course 05](Course-05-AI-for-Content-Creation/README.md) |
+| AI for Data Analysis | [Course 06](Course-06-AI-for-Data-Analysis/README.md) |
+| AI for App Building | [Course 07](Course-07-AI-for-App-Building/README.md) |
+| AI for App Deployment | [Course 08](Course-08-AI-for-App-Deployment/README.md) |
+
+## Visual Assets
+
+Nine portfolio banner image files are stored in [the assets/banners folder](assets/banners/).
+
 ## Skills Practised
 
 - AI fundamentals and prompt design
