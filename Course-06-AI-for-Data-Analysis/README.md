@@ -27,6 +27,8 @@ This course focused on using AI to analyze operational data, interpret performan
 **Quality and Data Review:**
 The dataset is simulated and does not represent verified company operations. The 7.85-hour resolution time and 86.25% customer satisfaction figures are averages of weekly reported values, not necessarily weighted averages across individual tickets. The sum of weekly pending counts is not the same as the final outstanding backlog. Correlation between operational indicators does not establish causation. A 90% customer satisfaction target was treated as a proposed benchmark.
 
+**Repository Evidence Note:** The simulated dataset used for this exercise is not included in this repository. The metrics are documented in this portfolio write-up and cannot be recalculated from the files stored here.
+
 **Skills Demonstrated:** Data analysis, KPI interpretation, performance reporting, trend analysis, numerical review, and AI-assisted business insights.
 
 ## Task 12: AI-Assisted IT Performance Dashboard & Business Intelligence Blueprint
