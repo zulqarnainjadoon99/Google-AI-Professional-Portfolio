@@ -45,6 +45,8 @@ The checks covered:
 **Quality and Technical Review:**
 The application is a frontend prototype. It does not provide production-grade authentication, a backend database, or multi-user synchronization. Browser localStorage is suitable for a demonstration but should not be treated as secure enterprise data storage.
 
+**Repository Evidence Note:** This course folder contains the task write-up but does not include the frontend prototype source, browser test script, or test log. The 9/9 checks are reported in this learning record and cannot be independently rerun from this repository.
+
 **Skills Demonstrated:** AI-assisted application development, HTML, CSS, JavaScript, debugging, browser testing, UI functionality, and data handling.
 
 ## Task 14: AI-Assisted Python Code Debugging & Software Testing
